@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.5.2"
   },
   "bugs": {
     "url": "https://github.com/Amina-Seidi/README-Generator/issues"
