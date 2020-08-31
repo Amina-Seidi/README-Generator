@@ -2,7 +2,7 @@
  # README Generator
 
  # Demo
- ![README Generator Demo](demo/readMeGenerator.mov)
+ ![README Generator Demo](demo/readMeGenerator2.mov)
  
  # Table of Contents
 
