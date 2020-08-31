@@ -1,6 +1,9 @@
 
  # README Generator
 
+ # Demo
+ ![README Generator Demo](demo/readMeGenerator.mov)
+ 
  # Table of Contents
 
  - [Description](#description)
