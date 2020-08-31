@@ -13,15 +13,15 @@
  - [Questions](#questions)
 
  ## Description:
- ![License](https://img.shields.io/badge/License--blue.svg "License Badge")
+ ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
-  An application which utilizes the command line to generate a GitHub README after answering prompted questions.
+  An application which allows the user to answer prompted questions in the command line for a README to be generated.
  ## Installation:
-    need to have node.js , util, fs and inquirer
+    Type node.js in the terminal
  ## Usage:
-    use to create a readme
+    To simplify creating README files for projects.
  ## Contributions:
-    Uconn bootcamp
+    Resources were provided by UConn's Coding Bootcamp
  ## Test:
     undefined
  ## Credits:
@@ -29,7 +29,7 @@
  ## License:
   For more innformation about the License, click on the link below.
 
-- [License](https://opensource.org/licenses/)
+- [License](https://opensource.org/licenses/mit)
 
 ## Questions:
     For questions about the Generator you can go to my Github page at the following Link:
