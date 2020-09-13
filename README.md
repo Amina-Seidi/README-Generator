@@ -1,9 +1,6 @@
 
  # README Generator
 
- # Demo
- ![README Generator Demo](demo/readMeGenerator.mov)
- 
  # Table of Contents
 
  - [Description](#description)
@@ -16,15 +13,15 @@
  - [Questions](#questions)
 
  ## Description:
- ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
+ ![License](https://img.shields.io/badge/License--blue.svg "License Badge")
 
-  An application which allows the user to answer prompted questions in the command line for a README to be generated.
+  A command line application that builds your README
  ## Installation:
-    Type node.js in the terminal
+    node index.js 
  ## Usage:
-    To simplify creating README files for projects.
+    To simplify creating README documentation
  ## Contributions:
-    Resources were provided by UConn's Coding Bootcamp
+    Uconn bootcamp
  ## Test:
     undefined
  ## Credits:
@@ -32,7 +29,7 @@
  ## License:
   For more innformation about the License, click on the link below.
 
-- [License](https://opensource.org/licenses/mit)
+- [License](https://opensource.org/licenses/)
 
 ## Questions:
     For questions about the Generator you can go to my Github page at the following Link:
