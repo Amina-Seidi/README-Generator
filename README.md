@@ -2,7 +2,7 @@
  # README Generator
 
  # Demo
- ![README Generator Demo](demo//READMEdemo.gif)
+ ![README Generator Demo](demo//ReadmeDemo.gif)
  
  # Table of Contents
 
